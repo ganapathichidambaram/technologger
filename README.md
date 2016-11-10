@@ -1,3 +1,0 @@
-# technologger
-# technologger
-# technologger
