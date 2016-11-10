@@ -1,0 +1,43 @@
+# TechnoLogger - Logging for PHP [![Build Status](https://img.shields.io/travis/Seldaek/monolog.svg)](https://travis-ci.org/Seldaek/monolog)
+
+
+TechnoLogger sends your logs to files. It would enable PHP logging into text
+file and other handler services.  Also it would load the classes automatically
+when classes are called from anywhere in the php file. By Default it would
+create directory and log files with required permission if not available. else
+make sure with right permission for web user to access the same.
+
+
+
+## Installation
+
+Install the latest version with
+
+```bash
+$ composer require TechnoBureau/technologger
+```
+
+## Basic Usage
+
+```php
+<?php
+
+include("library/TechnoBureau/Autoload.php");
+
+
+### Requirements
+
+- TechnoLogger works with PHP 5.3 or above, and is also tested to work with HHVM.
+
+### Submitting bugs and feature requests
+
+Bugs and feature request are tracked on [GitHub](https://github.com/TechnoBureau/technologger/issues)
+
+### Author
+
+Ganapathi Chidambaram - <ganapathi.rj@gmail.com> - <http://twitter.com/ganapathi_rj><br />
+See also the list of [contributors](https://github.com/TechnoBureau/technologger/contributors) which participated in this project.
+
+### License
+
+Monolog is licensed under the MIT License - see the `LICENSE` file for details

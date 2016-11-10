@@ -1,0 +1,39 @@
+{
+    "name": "TechnoBureau/technologger",
+    "description": "Sends your logs to files",
+    "keywords": ["log", "logging", "php-log","php-logger","logger"],
+    "homepage": "http://github.com/TechnoBureau/technologger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ganapathi Chidambaram",
+            "email": "ganapathi.rj@gmail.com",
+            "homepage": "http://www.technobureau.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "psr/log": "~1.0"
+    },
+    "require-dev": {
+
+    },
+    "_": "",
+    "suggest": {
+
+    },
+    "autoload": {
+        "psr-4": {"Monolog\\": "src/technologger"}
+    },
+
+    "provide": {
+    },
+    "extra": {
+        "branch-alias": {
+        }
+    },
+    "scripts": {
+
+    }
+}
