@@ -1,4 +1,4 @@
-# TechnoLogger - Logging for PHP [![Build Status](https://img.shields.io/travis/Seldaek/monolog.svg)](https://travis-ci.org/Seldaek/monolog)
+# TechnoLogger - Logging for PHP
 
 
 TechnoLogger sends your logs to files. It would enable PHP logging into text
