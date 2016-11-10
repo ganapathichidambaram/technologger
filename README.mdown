@@ -24,6 +24,7 @@ $ composer require TechnoBureau/technologger
 
 include("library/TechnoBureau/Autoload.php");
 
+```
 
 ### Requirements
 
