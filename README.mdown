@@ -14,7 +14,7 @@ make sure with right permission for web user to access the same.
 Install the latest version with
 
 ```bash
-$ composer require TechnoBureau/technologger
+$ composer require ganapathichidambaram/technologger
 ```
 
 ## Basic Usage
@@ -22,7 +22,7 @@ $ composer require TechnoBureau/technologger
 ```php
 <?php
 
-include("library/TechnoBureau/Autoload.php");
+include("technologger.php");
 
 ```
 
@@ -32,13 +32,13 @@ include("library/TechnoBureau/Autoload.php");
 
 ### Submitting bugs and feature requests
 
-Bugs and feature request are tracked on [GitHub](https://github.com/TechnoBureau/technologger/issues)
+Bugs and feature request are tracked on [GitHub](https://github.com/ganapathichidambaram/technologger/issues)
 
 ### Author
 
 Ganapathi Chidambaram - <ganapathi.rj@gmail.com> - <http://twitter.com/ganapathi_rj><br />
-See also the list of [contributors](https://github.com/TechnoBureau/technologger/contributors) which participated in this project.
+See also the list of [contributors](https://github.com/ganapathichidambaram/technologger/contributors) which participated in this project.
 
 ### License
 
-Monolog is licensed under the MIT License - see the `LICENSE` file for details
+TechnoLogger is licensed under the MIT License - see the `LICENSE` file for details
