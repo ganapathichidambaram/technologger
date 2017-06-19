@@ -17,12 +17,12 @@
     "require-dev": {
 
     },
-    "_": "",
+
     "suggest": {
 
     },
     "autoload": {
-
+        "psr-4": { "TechnoBureau\\": "/" }
     },
 
     "provide": {},
